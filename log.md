@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: July 24, 2020
-##### (delete me or comment me out)
 
 **Today's Progress**: 
 
